@@ -1,4 +1,4 @@
-# HealthHub Backend API
+# VitalSense AI Backend
 
 This project is a FastAPI application serving as the backend API for HealthHub, a comprehensive health management platform. 
 
