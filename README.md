@@ -1,6 +1,6 @@
 # VitalSense AI Backend
 
-This project is a FastAPI application serving as the backend API for HealthHub, a comprehensive health management platform. 
+This project is a FastAPI application serving as the backend API for VitalSense, a comprehensive health management platform. 
 
 - Python 3.8+
 - pip (Python package installer)
